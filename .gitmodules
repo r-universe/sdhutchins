@@ -1,4 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/sdhutchins/sdhutchins.r-universe.dev
 	branch = HEAD
+[submodule "documenteR"]
+	path = documenteR
+	url = https://github.com/sdhutchins/documenteR
+[submodule "harlem"]
+	path = harlem
+	url = https://github.com/sdhutchins/harlem
+[submodule "pkgmkr"]
+	path = pkgmkr
+	url = https://github.com/sdhutchins/pkgmkr
+[submodule "victortools"]
+	path = victortools
+	url = https://github.com/sdhutchins/victortools
