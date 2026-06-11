@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/sdhutchins/sdhutchins.r-universe.dev
 	branch = HEAD
+[submodule "JournalAnalysis"]
+	path = JournalAnalysis
+	url = https://github.com/vallenderlab/JournalAnalysis
+[submodule "MicrobiomeR"]
+	path = MicrobiomeR
+	url = https://github.com/vallenderlab/MicrobiomeR
 [submodule "documenteR"]
 	path = documenteR
 	url = https://github.com/sdhutchins/documenteR
