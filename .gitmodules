@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/sdhutchins/sdhutchins.r-universe.dev
 	branch = HEAD
+[submodule "BioThingsClient.R"]
+	path = BioThingsClient.R
+	url = https://github.com/biothings/BioThingsClient.R
 [submodule "JournalAnalysis"]
 	path = JournalAnalysis
 	url = https://github.com/vallenderlab/JournalAnalysis
@@ -11,6 +14,9 @@
 [submodule "documenteR"]
 	path = documenteR
 	url = https://github.com/sdhutchins/documenteR
+[submodule "grateful"]
+	path = grateful
+	url = https://github.com/Pakillo/grateful
 [submodule "harlem"]
 	path = harlem
 	url = https://github.com/sdhutchins/harlem
